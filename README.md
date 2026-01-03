@@ -1,6 +1,6 @@
 # Proprietary License
 
-Copyright (c) 2025-2026 abzyrx
+Copyright (c) 2026 abzyrx
 
 All rights reserved.
 
